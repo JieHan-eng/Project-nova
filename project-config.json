@@ -1,0 +1,20 @@
+{
+  "project": {
+    "name": "Project Nova",
+    "version": "4.0",
+    "target_device": "Raspberry Handheld 4"
+  },
+  "hardware": {
+    "soc": {
+      "name": "Mocha",
+      "architecture": "ARM_v9",
+      "process_node": "3nm",
+      "neural_engine": "15 TOPS"
+    }
+  },
+  "software": {
+    "os": "Bloom OS 4.0",
+    "kernel": "Microkernel Architecture",
+    "security": "Capability-Based"
+  }
+}

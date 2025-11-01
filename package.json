@@ -1,0 +1,13 @@
+
+{
+  "name": "@raspberry-coffee/project-nova",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node MochaChipController.js",
+    "test": "node BloomOSKernel.js"
+  },
+  "dependencies": {
+    "typescript": "^5.0.0"
+  }
+}
